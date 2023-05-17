@@ -47,6 +47,7 @@
         "@solana/wallet-adapter-coin98": "workspace:^",
         "@solana/wallet-adapter-coinbase": "workspace:^",
         "@solana/wallet-adapter-coinhub": "workspace:^",
+        "@solana/wallet-adapter-dfinity": "workspace:^",
         "@solana/wallet-adapter-exodus": "workspace:^",
         "@solana/wallet-adapter-fractal": "workspace:^",
         "@solana/wallet-adapter-glow": "workspace:^",

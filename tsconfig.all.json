@@ -149,6 +149,9 @@
             "path": "./packages/wallets/tokenary/tsconfig.json"
         },
         {
+            "path": "./packages/wallets/dfinity/tsconfig.json"
+        },
+        {
             "path": "./packages/wallets/tokenpocket/tsconfig.json"
         },
         {
